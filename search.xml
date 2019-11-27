@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>在创建博客时遇到的一些问题</title>
+    <url>/2019/11/27/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<pre class=" language-bash"><code class="language-bash">1.教程中的npm命令安装hexo时，在控制命令符里更容易实现，快捷打开方式：<span class="token operator">&lt;</span>开始<span class="token operator">></span>-输入cmd，回车。即可打开控制命令符</code></pre>
+<pre class=" language-bash"><code class="language-bash">2.当找不到git部署时，需要安装插件。
+命令为npm <span class="token function">install</span> hexo-deployer-git --save
+需要在根目录下面执行</code></pre>
+<pre class=" language-bash"><code class="language-bash">3.更换主题时，要看清楚部署信息，有些主题需要特殊的依赖环境</code></pre>
+<pre class=" language-bash"><code class="language-bash">4.一些命令需要进入对应的文件夹实现，cmd中进入文件夹方法为cd <span class="token operator">&lt;</span>文件夹名<span class="token operator">></span></code></pre>
+<pre class=" language-bash"><code class="language-bash">5.配置文件时不能漏掉冒号：后面的空格，空格在这里相当于等号，没有空格就会报错</code></pre>
+<pre class=" language-bash"><code class="language-bash">6.init或者clone操作偶尔会报错，第一次操作就失败了不要直接就放弃，也许一模一样的操作再执行一遍就成功了</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>林弟弟肯定会点进来看一次</title>
     <url>/2019/11/24/%E6%9E%97%E5%BC%9F%E5%BC%9F%E8%82%AF%E5%AE%9A%E4%BC%9A%E7%9C%8B%E4%B8%80%E6%AC%A1/</url>
     <content><![CDATA[<pre class=" language-bash"><code class="language-bash">这是第一条，下面还有哦</code></pre>
